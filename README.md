@@ -6,7 +6,7 @@ CS student at UC San Diego. I like building things that fix real-world problems 
 
 - 🎓 Studying **CS at UCSD**, class of 2028
 - 💻 SWE Intern at **Prox Shopping** earlier this year, worked on iOS auth and frontend performance
-- 🤝 **Contributing to open source** and always looking for new projects to help out on — feel free to reach out
+- 🤝 **Currently contributing to open source** and always looking for new projects to help out on — feel free to reach out
 - 🌱 Going deeper on **systems programming**, **backend**, and **infra**
 
 ### Stuff I've built
