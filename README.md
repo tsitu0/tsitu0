@@ -18,8 +18,11 @@ CS student at UC San Diego. I like building things that fix real-world problems 
 ### Tools I reach for
 
 **Languages** — Python · TypeScript · Swift · Java · C/C++
+
 **Frontend** — React · Next.js · React Native · SwiftUI
+
 **Backend** — Node · Express · Supabase · MongoDB
+
 **AI** — OpenAI · Gemma · ElevenLabs
  
 ### Reach me at
